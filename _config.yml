@@ -9,10 +9,10 @@
 #
 # url is site domain, full URL to the production location of your collection
 # on GitHub Pages follows the pattern username.github.io
-url: https://liveswrittenbyhand.github.io 
+url: https://liveswrittenbyhand.github.io
 # baseurl is path to location on the domain if necessary e.g. /digital/hjccc
 # on GitHub Pages it is your github repository's name prefixed with a /
-baseurl: /digital-exhibition 
+baseurl: /digital-exhibition
 # location of code, the full url to your github repository
 source-code: https://github.com/liveswrittenbyhand/digital-exhibition
 
@@ -27,7 +27,7 @@ tagline: A Digital Exhibition
 # this description might appear in search result lists, keep around 160 characters max
 description: "In Lives Written by Hand, students tell stories about the life writing that emerges in diverse forms and formats of eighteenth-century books, in both print and manuscript held in Penn State’s Special Collection Library."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Julie Park, PhD / Jennifer Isasi, PhD
+author: Julie Park, PhD and Jennifer Isasi, PhD
 
 ##########
 # COLLECTION SETTINGS
