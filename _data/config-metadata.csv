@@ -7,9 +7,11 @@ subject,Subjects,true
 location,Location
 latitude,Latitude
 longitude,Longitude
-source,Source
-identifier,Source Identifier,,
+source,PSU URL,,
+identifier,Call-Number,,
 type,Type,
-format,Format,
+medium, Medium,
+format,Digital Object Format,
+language, Language(s)
 rights,Rights,
 rightsstatement,Rights Statement,,true
