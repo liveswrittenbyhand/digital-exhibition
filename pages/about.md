@@ -8,6 +8,8 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
+{% include feature/jumbotron.html objectid="https://raw.githubusercontent.com/liveswrittenbyhand/external-images/refs/heads/main/LWH_banner.JPEG" %}
+
 ## About the Collection
 
 Julie Park
