@@ -22,12 +22,12 @@ source-code: https://github.com/liveswrittenbyhand/digital-exhibition
 # title of site appears in banner
 title: Lives Written my Hand
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: Stories about the life writing that emerges in diverse forms and formats of eighteenth-century books, in both print and manuscript
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Change this"
+description: "In this online exhibition, “Lives Written by Hand,” students tell stories about the life writing that emerges in diverse forms and formats of eighteenth-century books, in both print and manuscript held in Penn State’s Special Collection Library."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Dr. Jennifer isasi
+author: Dr. Julie Park, Dr. Jennifer isasi
 
 ##########
 # COLLECTION SETTINGS
