@@ -10,8 +10,6 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
-
 ## About the Collection
 
 Julie Park
@@ -26,5 +24,5 @@ To that end, a vital feature of the class was the program of workshops Professor
 
 The seminar was fortunate to experience workshops led by live experts as well, and is indebted to the expertise of [Marissa Nicosia](https://www.abington.psu.edu/marissa-nicosia), Associate Professor of Renaissance English at Penn State Abington, for leading a workshop on early modern penmanship. With her, the seminar practiced reading early modern handwriting and copied a seventeenth-century manuscript recipe with their own quill pens and iron gall ink. 
 
-{% include feauture/image.html filename="LWH_01-Marissa Nicosia Workshop.jpeg" alt="Photograph of a classroom session. Seven students are looking at the materials in front of them, while a professor is explaining them via Zoom, displayed on a laptop and the screen. " caption="Figure 1. Professor Marissa Nicosia guiding students as they decipher and read a 17th-century recipe from a receipt book written by Christian Barclay Jaffray, held in Penn State University Eberly Family Special Collections Library for her early modern handwriting workshop." %}
+{% include figure.html filename="LWH_02-Students Writing Quills.jpeg" alt="Students writing by hand using a feather." %}
 
