@@ -13,7 +13,9 @@ credits: true
 ## About the Collection
 
 Julie Park
-Lives Written by Hand, A Digital Exhibition
+
+_Lives Written by Hand, A Digital Exhibition_
+
 Spring 2024
 
 In Spring Semester 2024, Julie Park, Paterno Family Librarian for Literature and Professor of English, taught an English Department graduate seminar, “English 597.001: Writing Lives by Hand,” on the materiality of life writing in eighteenth-century England. Alongside more traditional examples of life writing, such as memoir, autobiography, epistolary correspondence and diary writing, this seminar considered life writing as a material practice of recording and documenting the experience of living. Students engaged directly with commonplace books, almanacs, miscellanies, and annotated or extra-illustrated books held in Penn State University’s Eberly Family Special Collections Library to uncover how life writing is deeply entangled with the bibliographic materials, tools and techniques used for producing it. 
