@@ -42,11 +42,11 @@ The seminar is also deeply grateful to  [William (“Bill”) Minter](https://pu
 
 The course culminated with a collaboratively curated class exhibition built around the book each student “adopted,” for which they wrote a biography as well. In their contributions to the class exhibition, each seminar member selected two books to accompany their adopted book, writing labels for all three books, and creating bibliographic, biographic and cultural historical narratives for their selections. In all these projects the graduate students learned how to describe and analyze the material features of rare books and manuscripts, contextualize them historically, and practice public humanities work by communicating their scholarly research on books as material objects to a general, non-academic audience. They also became familiar with scholarship in book history and bibliography studies in their weekly reading assignments and entered the scholarly conversations therein with their weekly reading responses and final paper assignment. Their final paper entailed writing the biography of the book that the seminar member had adopted at the beginning of the class, thus engaging with book history as practitioners themselves. 
 
-{% include feature/image.html objectid="https://raw.githubusercontent.com/liveswrittenbyhand/external-images/refs/heads/main/LWH_07-Class-Exhibition-Full.JPEG" alt="Photograph of a student showcasing four rare books for other students." caption="Figure 8. Mollie Bowman presenting her exhibition, with Chaunece Reed and Ariannie Autie listening." width="65" %}
+{% include feature/image.html objectid="https://raw.githubusercontent.com/liveswrittenbyhand/external-images/refs/heads/main/LWH_07-Class-Exhibition-Full.JPEG" alt="Photograph of a student showcasing four rare books for other students." caption="Figure 8. View of class exhibition." width="65" %}
 
-In this online exhibition, “Lives Written by Hand,” students tell stories about the life writing that emerges in diverse forms and formats of eighteenth-century books, in both print and manuscript held in Penn State’s Special Collection Library: two different travel diaries written respectively by a male teen and a middle-aged antiquarian scholar, a commonplace book with botanical specimens pressed between its leaves, a bible taken apart and pasted and rebound into a blank notebook by its owner to create more space for his annotations, a fictional narrative masquerading as the memoir of a white female slave taken captive by Algerian pirates, a communally written cookbook, and the serially formatted memoir of a canny courtesan with her own printing press who manipulated past lovers for money by threatening to share details of their sexual encounters in her publication. 
+{% include feature/image.html objectid="https://raw.githubusercontent.com/liveswrittenbyhand/external-images/refs/heads/main/LWH_08-Mollie-Bowman-with-exhibition.jpg" alt="Photograph of a page opening from a handwritten book." caption="Figure 9. Mollie Bowman presenting her exhibition as Chaucene Reed and Arianne Autie listen." width="65" %}
 
-{% include feature/image.html objectid="https://raw.githubusercontent.com/liveswrittenbyhand/external-images/refs/heads/main/LWH_08-Mollie-Bowman-with-exhibition.jpg" alt="Photograph of a page opening from a handwritten book." caption="Figure 9. Page opening from receipt book written by Christian Barclay Jaffray, Penn State University Eberly Family Special Collections Library" width="65" %}
+In this online exhibition, “Lives Written by Hand,” students tell stories about the life writing that emerges in diverse forms and formats of eighteenth-century books, in both print and manuscript held in Penn State’s Special Collection Library: two different travel diaries written respectively by a male teen and a middle-aged antiquarian scholar, a commonplace book with botanical specimens pressed between its leaves, a bible taken apart and pasted and rebound into a blank notebook by its owner to create more space for his annotations, a fictional narrative masquerading as the memoir of a white female slave taken captive by Algerian pirates, a communally written cookbook, and the serially formatted memoir of a canny courtesan with her own printing press who manipulated past lovers for money by threatening to share details of their sexual encounters in her publication.
 
 The following critical themes about the material forms and formats of life writing that emerged in our seminar discussions can be detected in each student’s curation of their mini exhibition.  
 
@@ -69,7 +69,14 @@ Genevieve Gordon’s class commonplace book entry reflects on how the many diffe
 
 _This seminar’s focus on materiality has stressed to me the importance of one’s interactions with the book as an object to [an] articulation of the self. Life writing appears to me now as a set of physical and intellectual negotiations between a writer and their materials, out of which a sense of self and life are built and sustained. Self-fashioning is also material fashioning, and vice versa. Such a definition can account for the very wide range of life writing we have worked with, from the highly decorative social aesthetics of extra-illustration to the practicality of a family recipe book, an annotated almanac, or an accounts ledger._
 
-The following will lead you through this range of eighteenth-century life writing, as interpreted and contextualized by the following Spring 2024 graduate seminar members of English 597.001: Writing Lives by Hand. 
+The following exhibition will lead you through this range of eighteenth-century life writing, as interpreted and contextualized by the Spring 2024 graduate seminar members of English 597.001: Writing Lives by Hand: 
+- Ariannie Autie
+- Chaunece Reed
+- Mollie Bowman
+- Genevieve Gordon
+- Grace King
+- Richard Lu
+- Brett White
 
 –[Julie Park](http://www.juliepark.space), Paterno Family Librarian for Literature and Professor of English
 
@@ -79,4 +86,4 @@ In addition to our workshop leaders, Bill Minter and Marissa Nicosia, the semina
 
 We also thank Sue Kellerman, Judith O Sieg Chair for Preservation and Jacqui Quinn, Preservation Services Manager for hosting and facilitating our workshops with Bill Minter at the Conservation Centre. Bethann Rea, Digital Collections Management Librarian and Sarah Bildner, Digital Production Supervisor in Preservation, Conservation and Digitization must be thanked profusely for capturing beautiful images of the exhibition items at record speed.
 
-Colleagues in Penn State Special Collections, especially Racine Amos, Special Collections Librarian for Instruction, Outreach and Engagement, provided invaluable support throughout the semester and warrant gratitude.
+Colleagues in Penn State Special Collections, especially Racine Amos, Special Collections Librarian for Instruction, Outreach and Engagement, provided invaluable support throughout the semester and warrant immense gratitude.
